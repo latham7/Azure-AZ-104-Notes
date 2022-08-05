@@ -2,6 +2,8 @@
 
 # Exam Objectives
 
+[Link to Objectives and Skills] (https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4pCWy))
+
 ## Manage Azure Identities and Governance (15-20%)
 
 ### Manage Azure Active Directory Objects
