@@ -30,7 +30,7 @@
 
 - [ ] Provide access to Azure resources by assigning roles at different scopes
 
-- [ ] Interpret access assignments
+- [ ] Interpret access assignments.
 
 ### Manage Azure Subscriptions and governance
 
@@ -47,8 +47,6 @@
 - [ ] Manage costs by using alerts, budgets, and recommendations
 
 - [ ] Configure management groups
-  
-  
 
 ## Implement and Manage Storage
 
